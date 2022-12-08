@@ -23,9 +23,7 @@ Amal Hirsi
 Email: ahirsi@hotmail.co.uk
 Github: https://github.com/AmalHirsi
 
-https://github.com/AmalHirsi/Challenge-3-Password-Generator
 
 https://github.com/AmalHirsi/Challenge-3-Password-Generator.git
 
-https://notetakernew2022.herokuapp.com/
 
